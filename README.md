@@ -2,7 +2,7 @@
 Headers Extraction, this is an open source module for extracting headers from HTTP it can be using by developers or bug hunters to finding weakness or bugs.
 
 Usage:
-```nodejs
+```javascript
 // Include the module
 const web = require('headers_extraction');
 
