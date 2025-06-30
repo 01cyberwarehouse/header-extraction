@@ -13,5 +13,5 @@ var url = "https://www.google.com/";
 web.extract(url);
 
 /* Enjoy the result! happy coding and hacking! */
-console.log("Thank you for using my module don't forget to share and giving feedback :p");
+console.log("Thank you for using my module, don't forget to share and giving feedback :p");
 ```
